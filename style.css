@@ -15,8 +15,36 @@ html { box-sizing: border-box; }
 
 body {
 	background-color: #bdc3c7;
+	color:#bdc3c7;
+}
+.profil{
+	height: auto;
+	width: 250px;
+	padding: 20px;
+	background-color: #31363b;
+}
+.img{
+	position: relative;
+	width: 180px;
+	height: auto;
 }
 
+.logo{
+	position: absolute;
+	right:;
+	bottom:;
+	background-color: #b92e81;
+	border-radius: 50%;
+}
 
-
+.jmeno{
+	color: aliceblue;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+}
+.hlavicka{
+	font-family: 'Source Sans 3', sans-serif;
+}
 
